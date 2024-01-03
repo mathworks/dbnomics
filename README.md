@@ -13,7 +13,7 @@ This interface allows users to access DBnomics data directly from MATLAB.  DBnom
 
 Users can retrieve DBnomics data directly from MATLAB.   DBnomics documentation for Datasets, Last Updates, Providers, Search, and Series requests can be found here: 
 
-https://https://api.db.nomics.world/v22/apidocs#/
+https://api.db.nomics.world/v22/apidocs#/
 
 A valid DBnomics connection is required for all requests.  Users can retrieve information required to make subsequent data requests.
 
